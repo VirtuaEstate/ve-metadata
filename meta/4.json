@@ -1,0 +1,12 @@
+{
+  "name": "provagit",
+  "description": "VirtuaEstate property",
+  "image": "https://<USERNAME>.github.io/ve-metadata/images/res/l1/studio-b.webp",
+  "attributes": [
+    {"trait_type":"Zone","value":"The Village"},
+    {"trait_type":"Kind","value":"RES"},
+    {"trait_type":"Level","value":1},
+    {"trait_type":"TemplateId","value":3},
+    {"trait_type":"Business name","value":"Studio 12B"}
+  ]
+}
